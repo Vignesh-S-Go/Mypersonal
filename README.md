@@ -25,8 +25,8 @@ I'm currently working on **'Cloud with NLP for Fake Review Detection'**, focusin
 - Exploring **Decentralized Learning Architectures**
 
 ## 📫 Connect With Me
-- **LinkedIn**: [Your LinkedIn Profile](#)
-- **GitHub**: [Vignesh's GitHub](https://github.com/your-username)
-- **Email**: your.email@example.com
+- **LinkedIn**: [Vignesh S](www.linkedin.com/in/vigneshs009)
+- **GitHub**: [Vignesh's GitHub](https://github.com/Vignesh-S-Go)
+- **Email**: vigneshsekar255@gmail.com
 
 ### ✨ "Code, Learn, Innovate!"
